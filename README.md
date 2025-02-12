@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **python,flask, RestFul API**
 
-- 👨‍💻 All of my projects are available at [aliyahya.vercel.app](aliyahya.vercel.app)
+- 👨‍💻 All of my projects are available at https://aliyahya.vercel.app
 
 - 📫 How to reach me **dev.servicesyahya3@gmail.com**
 
-- 📄 Know about my experiences [aliyahya.vercel.app](aliyahya.vercel.app)
+- 📄 Know about my experiences https://aliyahya.vercel.app
 
 - ⚡ Fun fact **Lazzy**
 
